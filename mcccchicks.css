@@ -1,0 +1,164 @@
+
+BODY {
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top: 20px;
+	color: #000000;
+	background-color: #FFFFFF;
+	font-size: 12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+a:link {
+    color:#109BA7;
+    font-weight: bold;
+    text-decoration: none;
+}      /* unvisited link */
+
+a:visited {
+    color:#109BA7;
+    text-decoration: none;
+}  /* visited link */
+
+a:hover {
+    color:#32BDC9;
+    text-decoration: underline;
+}  /* mouse over link */
+
+a:active {
+    color:#109BA7;
+    text-decoration: none;
+}  /* selected link */
+
+.footer {
+	color: #DA3A68;
+	font-size: .8em;
+}
+
+#back_wrapper, #back_container {
+	height: 683px;
+	width: 1024px;
+}
+
+#back_wrapper {
+	right: 50%;
+	position: absolute;
+}
+
+#back_container {
+	left: 50%;
+	position: relative;
+	top: 20px;
+}
+
+#content_wrapper, #content_container {
+	height: 683px;
+	width: 1024px;
+}
+
+#content_wrapper {
+	right: 50%;
+	position: absolute;
+}
+
+#content_container {
+	left: 49%;
+	position: relative;
+	top: 37px;
+}
+
+.form_heading {
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+.form_title {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+.form_label {
+	font-size: 1em;
+	font-weight:bold;
+	height:30px;
+}
+
+.form_error {
+	font-size: .8em;
+	font-weight:bold;
+	color:#FF0000;	
+}
+
+.form_label_error {
+    font-size: 1em;
+    font-weight: bold;
+    height:30px;
+    color: #FF0000;
+}
+
+.small_label {
+	font-size: .8em;
+	font-weight:bold;
+}
+
+.small_text {
+	font-size: .8em;
+}
+
+.small_message {
+	font-size: .8em;
+	font-weight:bold;
+	color: #F33BAB;
+}
+
+.smaller_message {
+	font-size: .7em;
+	font-weight:bold;
+	color: #F33BAB;
+}
+
+.body_message {
+	font-size: 1em;
+	font-weight:bold;
+	color:#000000;
+}
+
+.highlightedmedium
+{
+	font-style: italic;
+	color: #FFFFFF;
+	background-color: #32BDC9;
+}
+
+.highlightedbutton
+{
+	font-style: italic;
+	color: #FFFFFF;
+	background-color: #32BDC9;
+        padding: 5px;
+        border-radius: 4px;
+}
+
+a.highlightedbutton {
+    color: #FFFFFF;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+a.highlightedbutton:hover {
+    color: #FFFFFF;
+    text-decoration: underline;
+    background-color: #109BA7;
+}
+.padding-20 {
+    padding: 20px;
+}
+
+.width-75pct {
+    width: 75%;
+}
+
+.lineheight-24 {
+    line-height: 24px;
+}

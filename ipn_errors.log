@@ -1,0 +1,46 @@
+[04-Mar-2014 14:18:35 America/Chicago] cURL error: [77] error setting certificate verify locations:
+  CAfile: /home/iglesiav/public_html/mcccchicks.org/cert/api_cert_chain.crt
+  CApath: none
+
+[04-Mar-2014 14:21:14 America/Chicago] Invalid HTTP request method.
+[04-Mar-2014 14:23:02 America/Chicago] cURL error: [77] error setting certificate verify locations:
+  CAfile: /home/iglesiav/public_html/mcccchicks.org/cert/api_cert_chain.crt
+  CApath: none
+
+[04-Mar-2014 14:34:41 America/Chicago] Invalid HTTP request method.
+[04-Mar-2014 14:35:15 America/Chicago] Invalid HTTP request method.
+[04-Mar-2014 14:40:53 America/Chicago] PHP Warning:  include(ipnlistener.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/iglesiav/public_html/mcccchicks.org/ipn.php on line 7
+[04-Mar-2014 14:40:53 America/Chicago] PHP Warning:  include(ipnlistener.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/iglesiav/public_html/mcccchicks.org/ipn.php on line 7
+[04-Mar-2014 14:40:53 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'ipnlistener.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iglesiav/public_html/mcccchicks.org/ipn.php on line 7
+[04-Mar-2014 14:40:53 America/Chicago] PHP Fatal error:  Class 'IpnListener' not found in /home/iglesiav/public_html/mcccchicks.org/ipn.php on line 8
+[04-Mar-2014 14:42:20 America/Chicago] cURL error: [77] error setting certificate verify locations:
+  CAfile: /home/iglesiav/public_html/mcccchicks.org/includes/cert/api_cert_chain.crt
+  CApath: none
+
+[04-Mar-2014 14:44:37 America/Chicago] PHP Warning:  require_once(includes/ipnlistener.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/iglesiav/public_html/mcccchicks.org/ipn.php on line 7
+[04-Mar-2014 14:44:37 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'includes/ipnlistener.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/iglesiav/public_html/mcccchicks.org/ipn.php on line 7
+[04-Mar-2014 14:51:18 America/Chicago] cURL error: [77] error setting certificate verify locations:
+  CAfile: /home/iglesiav/public_html/mcccchicks.org/certs/api_cert_chain.crt
+  CApath: none
+
+[04-Mar-2014 15:24:24 America/Chicago] cURL error: [77] error setting certificate verify locations:
+  CAfile: /home/iglesiav/public_html/mcccchicks.org/includes/cert/api_cert_chain.crt
+  CApath: none
+
+[04-Mar-2014 15:24:42 America/Chicago] cURL error: [77] error setting certificate verify locations:
+  CAfile: /home/iglesiav/public_html/mcccchicks.org/includes/cert/api_cert_chain.crt
+  CApath: none
+
+[04-Mar-2014 15:26:03 America/Chicago] cURL error: [77] error setting certificate verify locations:
+  CAfile: /home/iglesiav/public_html/mcccchicks.org/includes../cert/api_cert_chain.crt
+  CApath: none
+
+[02-Apr-2015 23:52:15 America/Chicago] cURL error: [35] error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure
+[09-Apr-2015 14:59:36 America/Chicago] cURL error: [35] error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure
+[20-Apr-2015 21:33:54 America/Chicago] cURL error: [35] error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure
+[22-Apr-2015 10:32:00 America/Chicago] cURL error: [35] error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure
+[23-Apr-2015 09:39:16 America/Chicago] cURL error: [35] error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure
+[30-Apr-2015 11:16:43 America/Chicago] cURL error: [35] error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure
+[30-Apr-2015 21:15:42 America/Chicago] cURL error: [35] error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure
+[05-Feb-2017 08:37:39 America/Chicago] cURL error: [35] error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure
+[06-Feb-2017 13:33:30 America/Chicago] cURL error: [35] error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure

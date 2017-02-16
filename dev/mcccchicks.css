@@ -1,0 +1,98 @@
+
+BODY {
+	MARGIN-BOTTOM: 0px;
+	MARGIN-RIGHT: 0px;
+	MARGIN-LEFT: 0px;
+	MARGIN-TOP: 20px;
+	color: #000000;
+	background-color: #FFFFFF;
+	font-size: 1em;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+.footer {
+	color: #DA3A68;
+	font-size: .8em;
+}
+
+#back_wrapper, #back_container {
+	height: 683px;
+	width: 1024px;
+}
+
+#back_wrapper {
+	right: 50%;
+	position: absolute;
+}
+
+#back_container {
+	left: 50%;
+	position: relative;
+	top: 20px;
+}
+
+#content_wrapper, #content_container {
+	height: 683px;
+	width: 1024px;
+}
+
+#content_wrapper {
+	right: 50%;
+	position: absolute;
+}
+
+#content_container {
+	left: 49%;
+	position: relative;
+	top: 37px;
+}
+
+.form_heading {
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+.form_title {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+.form_label {
+	font-size: 1em;
+	font-weight:bold;
+	height:30px;
+}
+
+.form_error {
+	font-size: .8em;
+	font-weight:bold;
+	color:#FF0000;	
+}
+
+.small_label {
+	font-size: .8em;
+	font-weight:bold;
+}
+
+.small_text {
+	font-size: .8em;
+}
+
+.small_message {
+	font-size: .8em;
+	font-weight:bold;
+	color: #FF3399;
+}
+
+.body_message {
+	font-size: 1em;
+	font-weight:bold;
+	color:#000000;
+}
+
+.highlightedmedium
+{
+	font-style: italic;
+	color: #FFFFFF;
+	background-color: #32BDC9;
+}

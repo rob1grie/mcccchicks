@@ -1,0 +1,374 @@
+[13-Feb-2016 19:57:05 America/Chicago] PHP Notice:  Undefined index: email_name in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 7
+[13-Feb-2016 19:57:05 America/Chicago] PHP Notice:  Undefined index: email_email in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 8
+[13-Feb-2016 19:57:05 America/Chicago] PHP Notice:  Undefined index: email_message in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 9
+[13-Feb-2016 19:57:06 America/Chicago] PHP Notice:  Undefined index: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 48
+[13-Feb-2016 19:57:06 America/Chicago] PHP Notice:  Undefined index: reg1_errors in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 49
+[13-Feb-2016 19:57:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 126
+[13-Feb-2016 19:57:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 138
+[13-Feb-2016 19:57:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 150
+[13-Feb-2016 19:57:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 151
+[13-Feb-2016 19:57:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 152
+[13-Feb-2016 19:57:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 164
+[13-Feb-2016 19:57:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 165
+[13-Feb-2016 19:57:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 166
+[13-Feb-2016 19:57:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 177
+[13-Feb-2016 19:57:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 189
+[13-Feb-2016 19:57:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 194
+[13-Feb-2016 19:57:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 208
+[01-Apr-2016 10:23:59 America/Chicago] PHP Notice:  Undefined index: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 48
+[01-Apr-2016 10:23:59 America/Chicago] PHP Notice:  Undefined index: reg1_errors in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 49
+[01-Apr-2016 10:23:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 126
+[01-Apr-2016 10:23:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 138
+[01-Apr-2016 10:23:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 150
+[01-Apr-2016 10:23:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 151
+[01-Apr-2016 10:23:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 152
+[01-Apr-2016 10:23:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 164
+[01-Apr-2016 10:23:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 165
+[01-Apr-2016 10:23:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 166
+[01-Apr-2016 10:23:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 177
+[01-Apr-2016 10:23:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 189
+[01-Apr-2016 10:23:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 194
+[01-Apr-2016 10:23:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 208
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Undefined index: mode in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 6
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 101
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 101
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 112
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 112
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 116
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 116
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 120
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 120
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 125
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 125
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 126
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 126
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 127
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 127
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 132
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 132
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 140
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 140
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 141
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 141
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 147
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 147
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 148
+[07-Apr-2016 10:18:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 148
+[09-Apr-2016 04:08:30 America/Chicago] PHP Notice:  Undefined index: registration in /home/iglesiav/public_html/mcccchicks.org/process_reg4.php on line 9
+[09-Apr-2016 04:08:30 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/process_reg4.php on line 10
+[09-Apr-2016 04:08:30 America/Chicago] PHP Notice:  Undefined index: payfee in /home/iglesiav/public_html/mcccchicks.org/process_reg4.php on line 34
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined index: mode in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 6
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 99
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 99
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 103
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 103
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 108
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 108
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 109
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 109
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 110
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 110
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 116
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 116
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 117
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 117
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 118
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 118
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 123
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 123
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 127
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 127
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 131
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 131
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 135
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 135
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 139
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 139
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 143
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 143
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 147
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 147
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 150
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 150
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 159
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 159
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 160
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 160
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 162
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 162
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 162
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 162
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 164
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 164
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 168
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 168
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 179
+[09-Apr-2016 10:18:00 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 179
+[09-Apr-2016 14:32:32 America/Chicago] PHP Notice:  Undefined index: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register4.php on line 5
+[09-Apr-2016 14:32:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register4.php on line 9
+[09-Apr-2016 14:32:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register4.php on line 9
+[14-Apr-2016 13:20:51 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 21
+[10-May-2016 09:21:56 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 21
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined index: mode in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 6
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 99
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 99
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 103
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 103
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 108
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 108
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 109
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 109
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 110
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 110
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 116
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 116
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 117
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 117
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 118
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 118
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 123
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 123
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 127
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 127
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 131
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 131
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 135
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 135
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 139
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 139
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 143
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 143
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 147
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 147
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 150
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 150
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 159
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 159
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 160
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 160
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 162
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 162
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 162
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 162
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 164
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 164
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 168
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 168
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 179
+[15-May-2016 14:04:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 179
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Undefined index: mode in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 6
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 101
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 101
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 112
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 112
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 116
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 116
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 120
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 120
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 125
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 125
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 126
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 126
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 127
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 127
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 132
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 132
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 140
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 140
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 141
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 141
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 147
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 147
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 148
+[15-May-2016 18:47:49 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register2.php on line 148
+[20-May-2016 00:02:29 America/Chicago] PHP Notice:  Undefined index: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register4.php on line 5
+[20-May-2016 00:02:29 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register4.php on line 9
+[20-May-2016 00:02:29 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register4.php on line 9
+[20-May-2016 15:09:06 America/Chicago] PHP Notice:  Undefined index: registration in /home/iglesiav/public_html/mcccchicks.org/process_reg4.php on line 9
+[20-May-2016 15:09:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/process_reg4.php on line 10
+[20-May-2016 15:09:06 America/Chicago] PHP Notice:  Undefined index: payfee in /home/iglesiav/public_html/mcccchicks.org/process_reg4.php on line 34
+[05-Jul-2016 05:38:13 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 21
+[01-Aug-2016 10:23:10 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 21
+[01-Aug-2016 10:23:33 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 21
+[01-Aug-2016 16:20:09 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 21
+[15-Sep-2016 07:25:20 America/Chicago] PHP Notice:  Undefined index: registration in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 6
+[15-Sep-2016 07:25:20 America/Chicago] PHP Notice:  Undefined index: submit in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 11
+[15-Sep-2016 07:25:20 America/Chicago] PHP Notice:  Undefined index: coupon in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 17
+[15-Sep-2016 07:25:20 America/Chicago] PHP Warning:  Creating default object from empty value in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 17
+[15-Sep-2016 07:25:20 America/Chicago] PHP Notice:  Undefined index: group_name in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 36
+[15-Sep-2016 07:25:20 America/Chicago] PHP Notice:  Undefined index: church_name in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 37
+[15-Sep-2016 07:25:20 America/Chicago] PHP Notice:  Undefined index: church_address in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 38
+[15-Sep-2016 07:25:20 America/Chicago] PHP Notice:  Undefined index: church_city in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 39
+[15-Sep-2016 07:25:20 America/Chicago] PHP Notice:  Undefined index: church_state in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 40
+[15-Sep-2016 07:25:20 America/Chicago] PHP Notice:  Undefined index: church_zip in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 41
+[15-Sep-2016 07:25:20 America/Chicago] PHP Notice:  Undefined index: church_web in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 42
+[15-Sep-2016 07:25:20 America/Chicago] PHP Notice:  Undefined index: women_leader in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 43
+[15-Sep-2016 07:25:20 America/Chicago] PHP Notice:  Undefined index: pastor_wife in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 47
+[15-Sep-2016 07:25:21 America/Chicago] PHP Fatal error:  Call to undefined method stdClass::SetRegistrationRate() in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 18
+[09-Oct-2016 19:53:30 America/Chicago] PHP Notice:  Undefined index: email_name in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 7
+[09-Oct-2016 19:53:30 America/Chicago] PHP Notice:  Undefined index: email_email in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 8
+[09-Oct-2016 19:53:30 America/Chicago] PHP Notice:  Undefined index: email_message in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 9
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined index: registration in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 6
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined index: submit in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 11
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined index: coupon in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 17
+[09-Oct-2016 19:53:31 America/Chicago] PHP Warning:  Creating default object from empty value in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 17
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined index: group_name in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 36
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined index: church_name in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 37
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined index: church_address in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 38
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined index: church_city in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 39
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined index: church_state in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 40
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined index: church_zip in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 41
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined index: church_web in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 42
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined index: women_leader in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 43
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined index: pastor_wife in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 47
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined index: mode in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 6
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 99
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 99
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 103
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 103
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 108
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 108
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 109
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 109
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 110
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 110
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 116
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 116
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 117
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 117
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 118
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 118
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 123
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 123
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 127
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 127
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 131
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 131
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 135
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 135
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 139
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 139
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 143
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 143
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 147
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 147
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 150
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 150
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 159
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 159
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 160
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 160
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 162
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 162
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 162
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 162
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 164
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 164
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 168
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 168
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Undefined variable: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 179
+[09-Oct-2016 19:53:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 179
+[15-Jan-2017 04:54:02 America/Chicago] PHP Notice:  Undefined index: registration in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 6
+[15-Jan-2017 04:54:02 America/Chicago] PHP Notice:  Undefined index: submit in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 11
+[15-Jan-2017 04:54:02 America/Chicago] PHP Notice:  Undefined index: coupon in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 17
+[15-Jan-2017 04:54:02 America/Chicago] PHP Warning:  Creating default object from empty value in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 17
+[15-Jan-2017 04:54:02 America/Chicago] PHP Notice:  Undefined index: group_name in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 36
+[15-Jan-2017 04:54:02 America/Chicago] PHP Notice:  Undefined index: church_name in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 37
+[15-Jan-2017 04:54:02 America/Chicago] PHP Notice:  Undefined index: church_address in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 38
+[15-Jan-2017 04:54:02 America/Chicago] PHP Notice:  Undefined index: church_city in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 39
+[15-Jan-2017 04:54:02 America/Chicago] PHP Notice:  Undefined index: church_state in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 40
+[15-Jan-2017 04:54:02 America/Chicago] PHP Notice:  Undefined index: church_zip in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 41
+[15-Jan-2017 04:54:02 America/Chicago] PHP Notice:  Undefined index: church_web in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 42
+[15-Jan-2017 04:54:02 America/Chicago] PHP Notice:  Undefined index: women_leader in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 43
+[15-Jan-2017 04:54:02 America/Chicago] PHP Notice:  Undefined index: pastor_wife in /home/iglesiav/public_html/mcccchicks.org/process_reg2.php on line 47
+[15-Jan-2017 04:54:03 America/Chicago] PHP Fatal error:  Call to undefined method stdClass::SetRegistrationRate() in /home/iglesiav/public_html/mcccchicks.org/conference_register3.php on line 18
+[15-Jan-2017 17:12:05 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 21
+[15-Jan-2017 17:12:23 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 21
+[05-Feb-2017 03:18:53 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_reg1.php on line 69
+[05-Feb-2017 08:32:38 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_reg1.php on line 69
+[05-Feb-2017 08:33:12 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_reg1.php on line 69
+[05-Feb-2017 08:34:31 America/Chicago] PHP Notice:  Undefined index: payfee in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 18
+[05-Feb-2017 09:26:53 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_reg1.php on line 69
+[05-Feb-2017 11:02:47 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_reg1.php on line 69
+[05-Feb-2017 11:41:25 America/Chicago] PHP Notice:  Undefined index: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 48
+[05-Feb-2017 11:41:25 America/Chicago] PHP Notice:  Undefined index: reg1_errors in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 49
+[05-Feb-2017 11:41:25 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 126
+[05-Feb-2017 11:41:25 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 138
+[05-Feb-2017 11:41:25 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 150
+[05-Feb-2017 11:41:25 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 151
+[05-Feb-2017 11:41:25 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 152
+[05-Feb-2017 11:41:25 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 164
+[05-Feb-2017 11:41:25 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 165
+[05-Feb-2017 11:41:25 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 166
+[05-Feb-2017 11:41:25 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 177
+[05-Feb-2017 11:41:25 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 189
+[05-Feb-2017 11:41:25 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 194
+[05-Feb-2017 11:41:25 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 208
+[05-Feb-2017 11:41:30 America/Chicago] PHP Notice:  Undefined index: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 48
+[05-Feb-2017 11:41:30 America/Chicago] PHP Notice:  Undefined index: reg1_errors in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 49
+[05-Feb-2017 11:41:30 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 126
+[05-Feb-2017 11:41:30 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 138
+[05-Feb-2017 11:41:30 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 150
+[05-Feb-2017 11:41:30 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 151
+[05-Feb-2017 11:41:30 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 152
+[05-Feb-2017 11:41:30 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 164
+[05-Feb-2017 11:41:30 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 165
+[05-Feb-2017 11:41:30 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 166
+[05-Feb-2017 11:41:30 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 177
+[05-Feb-2017 11:41:30 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 189
+[05-Feb-2017 11:41:30 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 194
+[05-Feb-2017 11:41:30 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 208
+[05-Feb-2017 11:42:13 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_reg1.php on line 69
+[05-Feb-2017 11:42:25 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_reg1.php on line 69
+[05-Feb-2017 11:44:27 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_email.php on line 21
+[05-Feb-2017 18:20:32 America/Chicago] PHP Notice:  Undefined index: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 48
+[05-Feb-2017 18:20:32 America/Chicago] PHP Notice:  Undefined index: reg1_errors in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 49
+[05-Feb-2017 18:20:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 126
+[05-Feb-2017 18:20:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 138
+[05-Feb-2017 18:20:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 150
+[05-Feb-2017 18:20:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 151
+[05-Feb-2017 18:20:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 152
+[05-Feb-2017 18:20:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 164
+[05-Feb-2017 18:20:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 165
+[05-Feb-2017 18:20:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 166
+[05-Feb-2017 18:20:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 177
+[05-Feb-2017 18:20:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 189
+[05-Feb-2017 18:20:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 194
+[05-Feb-2017 18:20:32 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 208
+[05-Feb-2017 18:43:30 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_reg1.php on line 69
+[06-Feb-2017 12:12:35 America/Chicago] PHP Notice:  Undefined index: registration in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 48
+[06-Feb-2017 12:12:35 America/Chicago] PHP Notice:  Undefined index: reg1_errors in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 49
+[06-Feb-2017 12:12:35 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 126
+[06-Feb-2017 12:12:35 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 138
+[06-Feb-2017 12:12:35 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 150
+[06-Feb-2017 12:12:35 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 151
+[06-Feb-2017 12:12:35 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 152
+[06-Feb-2017 12:12:35 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 164
+[06-Feb-2017 12:12:35 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 165
+[06-Feb-2017 12:12:35 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 166
+[06-Feb-2017 12:12:35 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 177
+[06-Feb-2017 12:12:35 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 189
+[06-Feb-2017 12:12:35 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 194
+[06-Feb-2017 12:12:35 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/conference_register1.php on line 208
+[06-Feb-2017 12:14:21 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_reg1.php on line 69
+[06-Feb-2017 12:20:25 America/Chicago] PHP Notice:  Undefined index: payfee in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 18
+[06-Feb-2017 12:20:30 America/Chicago] PHP Notice:  Undefined index: payfee in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 18
+[06-Feb-2017 12:21:40 America/Chicago] PHP Notice:  Undefined index: registration in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 13
+[06-Feb-2017 12:21:40 America/Chicago] PHP Notice:  Undefined index: payfee in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 18
+[06-Feb-2017 12:21:40 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 24
+[06-Feb-2017 12:21:40 America/Chicago] PHP Warning:  Creating default object from empty value in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 24
+[06-Feb-2017 12:21:40 America/Chicago] PHP Notice:  Undefined property: stdClass::$Address in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 25
+[06-Feb-2017 12:21:40 America/Chicago] PHP Notice:  Undefined property: stdClass::$City in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 26
+[06-Feb-2017 12:21:40 America/Chicago] PHP Notice:  Undefined property: stdClass::$Zip in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 27
+[06-Feb-2017 12:21:40 America/Chicago] PHP Notice:  Undefined property: stdClass::$Coupon in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 28
+[06-Feb-2017 12:21:40 America/Chicago] PHP Notice:  Undefined property: stdClass::$ChurchName in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 29
+[06-Feb-2017 12:21:40 America/Chicago] PHP Notice:  Undefined property: stdClass::$ChurchAddress in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 30
+[06-Feb-2017 12:21:40 America/Chicago] PHP Notice:  Undefined property: stdClass::$ChurchCity in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 31
+[06-Feb-2017 12:21:40 America/Chicago] PHP Notice:  Undefined property: stdClass::$ChurchZip in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 32
+[06-Feb-2017 12:21:40 America/Chicago] PHP Notice:  Undefined property: stdClass::$ChurchWeb in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 33
+[06-Feb-2017 12:21:40 America/Chicago] PHP Notice:  Undefined property: stdClass::$SpecialNeeds in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 34
+[06-Feb-2017 12:21:40 America/Chicago] PHP Fatal error:  Call to undefined method stdClass::GetRegistrationDate() in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 52
+[06-Feb-2017 13:29:36 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_reg1.php on line 69
+[06-Feb-2017 13:31:04 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_reg1.php on line 69
+[06-Feb-2017 13:31:35 America/Chicago] PHP Deprecated:  Function ereg() is deprecated in /home/iglesiav/public_html/mcccchicks.org/process_reg1.php on line 69
+[06-Feb-2017 17:42:18 America/Chicago] PHP Notice:  Undefined index: payfee in /home/iglesiav/public_html/mcccchicks.org/save_registration.php on line 18
